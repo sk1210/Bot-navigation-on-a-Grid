@@ -1,0 +1,6 @@
+{
+  "name": "Bot-navigation-on-a-grid",
+  "tagline": "",
+  "body": "# Bot_navigation-on a grid .\r\n\r\nThe robot will traverse on a N*N grid , starting from (0,0 ) .\r\nInitially the location of all destination is saved in program , the bot will reach these points by calculating the shortest path . \r\nIf there is a obstacle in the path , it will plan a new path .\r\nAfter travelling all points , it will return back to origin .\r\n\r\n# HARDWARE \r\nCONTROLLING UNIT - \r\n                  AVR AtMega32 uC .\r\n                  For controlling motors a motor driver (L293D) is used .\r\n                  IR Sensor Array consisting of 8 IR Sensors .\r\n                  LED .\r\n\r\n# SOFTWARE \r\n\r\nAVR STUDIO \r\nLanguage - C \r\n\r\n\r\n# Additional Details\r\n\r\nImages of bot is in image directory<br>\r\n![My Unicorn](https://github.com/sk1210/Bot-navigation-on-a-Grid/Image/Lfr.jpg).\r\n<hr>\r\nSample Video Link on You tube -\r\n<iframe width=\"420\" height=\"315\"\r\nsrc=\"https://www.youtube.com/embed/q7eleYf4SY\">\r\n</iframe> \r\n \r\n<a>https://www.youtube.com/watch?v=_q7eleYf4SY\r\n</a>\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
