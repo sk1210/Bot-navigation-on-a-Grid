@@ -1,7 +1,6 @@
 # Bot_navigation-on a grid .
+
 The robot will traverse on a N*N grid , starting from (0,0 ) .
-
-
 Initially the location of all destination is saved in program , the bot will reach these points by calculating the shortest path . 
 If there is a obstacle in the path , it will plan a new path .
 After travelling all points , it will return back to origin .
